@@ -59,7 +59,7 @@ $productos = ControladorProductos::ctrMostrarProductos($item, $valor, $orden);
 
           </a>
     
-       </div>
+        </div>
 
       </li>';
 
